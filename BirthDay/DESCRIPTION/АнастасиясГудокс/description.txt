@@ -1,0 +1,3 @@
+Папки с файлом описания не обнаружено
+
+Не удалось найти часть пути "D:\Users\Администратор2\Documents\Visual Studio 2008\Projects\BIRTHDAY\BirthDay2\DESCRIPTION\АнастасияГудок\description.txt".

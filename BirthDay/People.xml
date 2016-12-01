@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PEOPLE>
+  <Man>
+    <name>Оконноли</name>
+    <surName>Кевин</surName>
+    <dateOfBirth>02.02.2009</dateOfBirth>
+    <category>я сам</category>
+    <phone>(8 04) 3 2-65-57</phone>
+    <mobilePhone>(8 0) 67 -89-59</mobilePhone>
+    <country>Ирландия</country>
+    <sity>Дандалк</sity>
+    <street>Ул прюности</street>
+    <house>д.63 ,  кв.52</house>
+  </Man>
+  <Man>
+    <name>Анастасия</name>
+    <surName>Гудок</surName>
+    <dateOfBirth>01.09.2009</dateOfBirth>
+    <category>жена</category>
+    <phone>(8 04) 3 2-65-57</phone>
+    <mobilePhone>(8 0) 67 -67-85</mobilePhone>
+    <country>Украина</country>
+    <sity>Винница</sity>
+    <street>Ул прюности</street>
+    <house>д.63 ,  кв.52</house>
+  </Man>
+  <Man>
+    <name>Сергей</name>
+    <surName>Гудок</surName>
+    <dateOfBirth>04.09.2009</dateOfBirth>
+    <category>я сам</category>
+    <phone>(8 04) 3 2-65-57</phone>
+    <mobilePhone>(8 0) 67 -89-59</mobilePhone>
+    <country>Украина</country>
+    <sity>Винница</sity>
+    <street>Ул прюности</street>
+    <house>д.63 ,  кв.52</house>
+  </Man>
+  <Man>
+    <name>Сергей</name>
+    <surName>Василевский</surName>
+    <dateOfBirth>03.09.2009</dateOfBirth>
+    <category>я сам</category>
+    <phone>(8 04) 3 2-65-57</phone>
+    <mobilePhone>(8 0) 67 -89-59</mobilePhone>
+    <country>Украина</country>
+    <sity>Винница</sity>
+    <street>Ул прюности</street>
+    <house>д.63 ,  кв.52</house>
+  </Man>
+  <Man>
+    <name>Андрей</name>
+    <surName>Петренко</surName>
+    <dateOfBirth>01.09.1978</dateOfBirth>
+    <category>я сам</category>
+    <phone>(8 04) 3 2-65-57</phone>
+    <mobilePhone>(8 0) 67 -89-59</mobilePhone>
+    <country>Украина</country>
+    <sity>Винница</sity>
+    <street>Ул прюности</street>
+    <house>д.63 ,  кв.52</house>
+  </Man>
+  <Man>
+    <name>Оконнолиап</name>
+    <surName>Кевин</surName>
+    <dateOfBirth>08.02.1978</dateOfBirth>
+    <category>я сам</category>
+    <phone>(8 04) 3 2-65-57</phone>
+    <mobilePhone>(8 0) 67 -89-59</mobilePhone>
+    <country>Ирландия</country>
+    <sity>Дандалк</sity>
+    <street>Ул прюности</street>
+    <house>д.63 ,  кв.52</house>
+  </Man>
+</PEOPLE>
