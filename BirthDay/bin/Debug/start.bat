@@ -1,0 +1,1 @@
+start Birthday.exe FirstPar SecondPar
